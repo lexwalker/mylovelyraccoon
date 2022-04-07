@@ -1,0 +1,13 @@
+img {
+    background-image: url(../mylovelyraccoon/404.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+body {
+    overflow: hidden;
+}
