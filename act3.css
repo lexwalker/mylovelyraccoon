@@ -1,0 +1,36 @@
+.act3 {
+    background: linear-gradient(rgb(231, 169, 128), rgb(238, 155, 240));
+}
+
+.act3_us {
+    display: flex;
+    flex-direction: column;
+}
+
+.act3_us_case {
+    display: flex;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 20px;
+    box-shadow: 0 0 20px 8px #d0d0d0;
+    justify-content: center;
+    align-items: center;
+}
+.act3_us img {
+    display: inline;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin: 10px;
+}
+
+.right img{
+    float: right;
+}
+
+.act3_us span {
+    display: inline;
+    color: #000;
+}
